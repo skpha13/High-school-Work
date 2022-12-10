@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614790490 source:d:\c++ media\c++ projects\ora pregatire\partitiinumar_320\main.cpp
+	<iostream>
+	<fstream>
+

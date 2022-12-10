@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581770391 source:d:\c++\c++ projects\tema la info\10m2\19.02.2020\ord linie ord coloana\main.cpp
+	<iostream>
+	<fstream>
+

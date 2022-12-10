@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604051392 source:d:\c++\c++ projects\ore info\cel mai lung cuvant\main.cpp
+	<iostream>
+	<cstring>
+

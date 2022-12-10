@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603963544 source:d:\c++\c++ projects\teme pregatire\2020.11.04\numarmaximvocale+90\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

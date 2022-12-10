@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598249851 source:d:\c++\c++ projects\teme pregatire\26.08.2020\elempp_132\main.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+

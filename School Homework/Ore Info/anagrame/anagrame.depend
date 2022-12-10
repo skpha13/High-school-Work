@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604050607 source:d:\c++\c++ projects\ore info\anagrame\main.cpp
+	<iostream>
+	<cstring>
+

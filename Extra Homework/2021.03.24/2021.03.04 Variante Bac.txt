@@ -1,0 +1,26 @@
+	V2:
+
+2^4(4-1)/2 = 2^6 
+
+RASPUNS: B
+
+
+	V5:
+
+Numar maxim noduri = 2*10 = 20
+
+3 noduri au gradul nr. par cel mai fav =2
+restul grad impar cel mai fav = 1
+
+=> 17
+
+RASPUNS: B
+
+	V7:
+
+RASPUNS: D
+
+
+
+
+

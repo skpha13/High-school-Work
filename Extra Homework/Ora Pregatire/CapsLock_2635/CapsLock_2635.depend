@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605183733 source:d:\c++\c++ projects\ora pregatire\capslock_2635\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

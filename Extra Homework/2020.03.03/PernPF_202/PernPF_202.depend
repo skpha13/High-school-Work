@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614774106 source:d:\c++ media\c++ projects\teme pregatire\2020.03.03\pernpf_202\main.cpp
+	<iostream>
+	<fstream>
+

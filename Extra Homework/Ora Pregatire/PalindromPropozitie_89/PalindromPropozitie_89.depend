@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606247630 source:d:\c++\c++ projects\ora pregatire\palindrompropozitie_89\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

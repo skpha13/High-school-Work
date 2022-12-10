@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605304225 source:d:\c++\c++ projects\teme bobo\2020.11.20\sortare divizori_1608\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+

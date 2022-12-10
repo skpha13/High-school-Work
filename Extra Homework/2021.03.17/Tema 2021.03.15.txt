@@ -1,0 +1,343 @@
+	Test 3: 
+
+{rubin,opal,safir,smarald,topaz}   sa nu fie una langa alta 2 dintre {rubin,safir,topaz}
+
+11) (rubin,opal,smarald,rubin)
+
+(topaz,smarald,rubin,opal)
+.
+.
+.
+(topaz,smarald,topaz,smarald)
+
+RASPUNS: C
+
+
+	Test 4:
+
+{făină, lapte, ouă}  {cioc olată, dulceață, urdă}   {cașcaval, mărar, frișcă} 
+
+5) (făină, ouă, lapte, ciocolată, frișcă)
+
+6) (făină, ouă, lapte, dulceata, frisca)
+
+7) (făină, ouă, lapte, urda, cascaval)
+
+RASPUNS: D
+
+
+	Test 6:
+
+{caprifoi, iasomie, liliac, tamarix, scumpie}
+    1         2       3        4        5
+
+1 2 3 4 5
+1 2 3 5 4
+1 2 4 3 5
+1 2 4 5 3
+...
+5 4 3 1 2 (scumpie, tamarix, liliac, caprifoi, iasomie)
+5 4 3 2 1 
+
+RASPUNS: C
+
+
+	Test 7:
+
+{albizia, jacaranda, laburnum, magnolie, mimoza, sakura}
+    1         2          3         4       5       6
+
+1 2 3 4				a. 4 5 3 6
+1 2 3 5				b. 2 4 5 6
+1 2 3 6				c. 2 3 4 5 6
+1 2 4 5				d. 1 2 4 3
+1 2 4 6
+1 2 5 6 
+1 3 4 5 
+1 3 4 6 
+1 3 5 6 
+1 4 5 6 
+2 3 4 5 
+2 3 4 6 
+2 3 5 6 
+2 4 5 6 
+
+RASPUNS: B
+
+
+	Test 8:
+
+{5,7,8}
+
+1) 5
+2) 55
+3) 555
+4) 557
+5) 558
+6) 57
+7) 575
+8) 577
+9) 58
+10)7
+
+RASPUNS: A
+
+
+	Test 9:
+
+{roșu,galben,verde,albastru,violet}
+  1      2     3       4       5
+
+1) 1 2 3
+2) 1 2 4
+3) 1 2 5
+4) 1 3 2
+...
+5 4 2
+5 4 3
+
+RASPUNS: A
+
+
+	Test 10:
+
+{cal,câine,papagal,porumbel,ponei}   		sa nu fie 2 una langa alta din {cal,papagal,ponei}
+  1    2     3        4       5							 1    3       5
+
+2 1 2 1					
+2 1 2 2
+2 1 2 3
+2 1 2 4
+2 1 2 5
+
+2 1 4 1
+2 1 4 2
+2 1 4 3
+2 1 4 4
+2 1 4 5 => 2
+
+2 2 1 2
+2 2 1 4 
+
+2 2 2 1
+2 2 2 2
+2 2 2 3 
+2 2 2 4
+2 2 2 5
+
+2 2 3 2
+2 2 3 4
+
+2 2 4 1
+2 2 4 2
+2 2 4 3
+2 2 4 4
+2 2 4 5
+
+2 2 5 2
+2 2 5 4 => 5
+
+2 3 2 1
+2 3 2 2
+2 3 2 3
+2 3 2 4
+2 3 2 5
+
+2 3 4 1
+2 3 4 2
+2 3 4 3
+2 3 4 4
+2 3 4 5 => 2
+
+2 4 1 2
+2 4 1 4
+
+2 4 2 1
+2 4 2 2
+2 4 2 3
+2 4 2 4
+2 4 2 5
+
+2 4 3 2
+2 4 3 4
+
+2 4 4 1
+2 4 4 2
+2 4 4 3
+2 4 4 4
+2 4 4 5
+
+2 4 5 2
+2 4 5 4 => 5
+
+2 5 2 1
+2 5 2 3
+2 5 2 4
+
+2 5 4 1
+2 5 4 2
+2 5 4 3
+2 5 4 4 
+2 5 4 5 => 2
+
+TOTAL= 16
+
+Se observa ca la a doua coloana daca numarul este par exista 5 solutii, iar daca este impar sunt 2 solutii.
+
+RASPUNS: C
+
+
+	Test 11:
+
+{azalea, begonia, vriesea, busuioc, ferigă}	2 ghivece alaturare sa nu aiba plante cu flori sau fara flori
+   1        2	     3        4       5
+
+6) (begonia, busuioc, vriesea)
+    2 4 3
+7)  2 5 1
+8)  2 5 3
+9)  3 4 1
+   (vriesea, busuioc, azalea)
+
+RASPUNS: D
+
+
+	Test 13:
+
+{5, 6, 7, 8}
+
+1.  5
+2.  55
+3.  555
+4.  557
+5.  565
+6.  567
+7.  57
+8.  575
+9.  577
+10. 585
+11. 587
+12. 65
+
+RASPUNS: A
+
+
+	Test 14:
+
+{cască, costum de înot, cleme, dopuri de urechi, plută, mască de snorkeling, ochelari, snorkel}
+   40       400          30           30           10           400             70        60
+
+1. (cască, costum de înot, cleme, dopuri de urechi)
+2. (cască, costum de înot, snorkel)
+3. (cască, cleme, dopuri de urechi, mască de snorkeling)
+4. (cască, masca de snorkeling, snorkel)
+5. (costum de inot, cleme, pluta, snorkel)
+
+RASPUNS: B
+
+
+	Test 15:
+
+{creți, iacobini, jucători, rotați, toboșari}
+   1       2         3        4         5
+1 2 3 4 5
+1 2 3 5 4
+1 2 4 3 5
+1 2 4 5 3
+...
+5 4 3 1 2 (tobosari, rotati, jucatori, creti, iacobini)
+5 4 3 2 1 
+
+RASPUNS: C
+
+
+	Test 16:
+
+[100,999]
+
+1. 123
+2. 125
+3. 127
+4. 129
+5. 145
+6. 147
+7. 149
+8. 167
+9. 169
+
+RASPUNS: C
+
+
+	Test 17:
+
+{Hanging, Meteora, Sumela, Taktsang, Taung Kalat}	2 pozitii alaturate difere de {Hanging, Sumela, Taung Kalat}
+   1         2        3       4           5                                               1        3         5
+
+1 2 3
+1 2 4
+1 2 5
+1 4 2
+1 4 3
+1 4 5
+...
+2 1 4
+2 3 4
+2 4 1
+2 4 3
+2 4 5
+2 5 4
+
+RASPUNS: B
+
+
+	Test 18:
+
+{Oedip, Poema română, Rapsodia română nr. 1, Rapsodia română nr. 2, Simfonia nr. 1}
+   1         2                3                      4                    5
+
+1 2 3
+1 2 4
+1 2 5
+1 3 2
+...
+5 4 2 (Simfonia nr. 1, Rapsodia română nr. 2, Poema română)
+5 4 3
+
+RASPUNS: A
+
+
+	Test 19:
+
+{culegeri, manuale, notițe} 	{web, interviuri}	{imagine, sunet, text, video}
+
+imagine, text + site web
+sunet, video + interviu
+
+1. (culegeri, manuale, notițe, web, imagine)
+2. (culegeri, manuale, notițe, web, text)
+3. (culegeri, manuale, notițe, interviuri, sunet)
+4. (culegeri, manuale, notițe, interviuri, video)
+5. (culegeri, notițe, manuale, web, imagine)
+6. (culegeri, notițe, manuale, web, text)
+7. (culegeri, notițe, manuale, interviuri, sunet)
+
+RASPUNS: A
+
+
+	Test 20
+
+{ciuperci, legume, pere, panna, salată, tort}
+    1         2      3     4       5      6
+
+1   < 2
+2   < 5
+3,6 < 4
+
+1. 1 2 3 5 6 4
+2. 1 2 3 6 4 5
+3. 1 2 3 6 5 4
+4. 1 2 5 3 6 4
+5. 1 2 5 6 3 4 
+6. 1 2 6 3 4 5 (ciuperci, legume, tort, pere, panna, salata)
+
+RASPUNS: C

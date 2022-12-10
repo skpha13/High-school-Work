@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605548452 source:d:\c++\c++ projects\ora pregatire\formnr_2678\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+

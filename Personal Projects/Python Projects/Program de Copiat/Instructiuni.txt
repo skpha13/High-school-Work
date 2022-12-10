@@ -1,0 +1,3 @@
+	Introduceti in fisierele Text1, Text2, Text3 textele dorite tinand in minte ca pentru a copia
+continutul fisierului Text1 se va apasa tasta 1 de pe numpad, analog pentu celelalte.
+	Pentru a iesi din program se poate apasa ori tasta pausebreak ori tasta numlock.
